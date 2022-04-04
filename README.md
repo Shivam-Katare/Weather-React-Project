@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+This is the Weather React Project which is fully made up of React-JS.
+
+This is dynamic weather website which can change their background dynamically as per weather.
+
+🔵 FEATURES
+
+1️⃣ Search around the world (any Country / City / Village).
+2️⃣ Background will change dynamically.
+3️⃣ If city not found it will take back to the home page.
+4️⃣ Responsive Website.
+
+🔵ScreenShots
+
+Uploading soon.....
+
+
+# Getting Started with Create React App![2022-04-04 (4)]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
