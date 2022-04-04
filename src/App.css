@@ -1,0 +1,80 @@
+/* <link href="https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@200;400;500;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap" rel="stylesheet"> */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*Textform css*/
+
+.form-floating{
+  margin-top: 50px;
+}
+#floatingTextarea2{
+  min-height: 150px;
+}
+.heading{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 55px;
+  /* color: #0b5ed7 */
+}
+
+.btn-primary{
+  margin-top: 15px;
+}
+.bton2{
+  margin-left: 10px;
+}
+.heading2{
+  font-family: 'Montagu Slab', serif;
+  font-weight: 700;
+}
+.heading3{
+  font-family: 'Montagu Slab', serif;
+  font-weight: 700;
+}
+.cngfont{
+   font-family: 'Yuji Mai', serif;
+}
+.previewPara{
+  opacity: 0.5;
+}
+
+.accordion-item:hover{
+  background-color: blueviolet;
+}
