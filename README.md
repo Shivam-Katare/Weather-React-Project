@@ -11,8 +11,11 @@ This is dynamic weather website which can change their background dynamically as
 
 🔵ScreenShots
 
-Uploading soon.....
+![2022-04-04 (2)](https://user-images.githubusercontent.com/91705825/161692354-2434e656-5cc0-45b3-a342-d1a68b5e26ba.png)
 
+![2022-04-04 (3)](https://user-images.githubusercontent.com/91705825/161692491-86fd3a75-9ec4-46bb-b31c-64b6d5996068.png)
+
+![2022-04-04 (4)](https://user-images.githubusercontent.com/91705825/161692626-2fa95073-c2c3-4ba8-88c9-b18c40d29b8f.png)
 
 # Getting Started with Create React App![2022-04-04 (4)]
 
