@@ -13,7 +13,6 @@ body{
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease-out;
-  
   width: 100%;
 }
 .container.warm{
@@ -26,7 +25,6 @@ body{
 main{
   min-height: 100vh;
   padding: 25px;
-
 }
 
 .search-box{
@@ -53,8 +51,6 @@ main{
   font-size: 20px;
 
   transition: 0.4s ease;
-
-
 }
 .search-box .search-bar:focus{
   background-color: rgba(255, 255, 255,0.75);
@@ -96,7 +92,6 @@ main{
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
   border: 1px solid white;
-
 }
 
 .weather-box .weather{
